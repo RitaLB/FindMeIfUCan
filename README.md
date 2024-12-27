@@ -35,8 +35,8 @@ ultimately leading to the treasure's exact location at UFSC.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/find-me-if-you-can.git
-   cd find-me-if-you-can
+   git clone https://github.com/your-repo/FindMeIfUCan.git
+   cd FindMeIfUCan
    ```
 
 2. Install the required Python libraries:
@@ -46,7 +46,7 @@ ultimately leading to the treasure's exact location at UFSC.
    
 5. Run the game:
    ```bash
-   python3 main2.py
+   python3 main.py
    ```
 
 ## Tips
